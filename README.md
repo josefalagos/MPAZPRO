@@ -34,7 +34,6 @@ Tecnologías previstas para el desarrollo:
 - Room para almacenamiento local.
 - Git y GitHub para control de versiones.
 
-Las versiones y dependencias definitivas se documentarán una vez configurado el proyecto.
 
 ## 4. Perfiles de usuario
 
@@ -177,8 +176,8 @@ La distribución de tareas y los avances se registrarán en la herramienta de pl
 
 ## 15. Equipo
 
-- Integrante 1: [Nombre y apellido].
-- Integrante 2: [Nombre y apellido].
+- Integrante 1: Josefa Lagos.
+- Integrante 2: Cristóbal Ruiz.
 
 ## 16. Contexto académico
 
